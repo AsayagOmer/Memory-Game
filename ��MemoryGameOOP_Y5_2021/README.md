@@ -36,7 +36,7 @@ Developed as a **final OOP course project**, this game had several key objective
 ![Gameplay Screenshot](images/game.png) <!-- Replace with actual image path -->
 
 ### 🏆 Win Screen  
-![Win Screenshot](images/winning.png) <!-- Replace with actual image path -->
+![Win Screenshot](images/Winning.png) <!-- Replace with actual image path -->
 
 ---
 
