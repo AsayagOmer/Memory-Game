@@ -1,8 +1,10 @@
 # 🎮 Memory Match Game — Java Edition
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Practice-blueviolet?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010-lightgrey?style=for-the-badge)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/MOOC-Practice-blueviolet?style=for-the-badge" alt="MOOC Practice"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows 10"/>
+</p>
 
 ---
 
@@ -81,4 +83,3 @@ Developed as a **final OOP course project**, this game had several key objective
  ┣ 📄 StartFrame.java      # Menu and size selection
  ┣ 📄 AePlayWave.java      # Sound management
  ┗ 📁 sounds/              # .wav audio files
-
